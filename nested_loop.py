@@ -1,5 +1,5 @@
-a = ['ek', 'anek']
-b = ['chidiya', 'titli']
+a = ['one', 'two']
+b = ['step', 'hop']
 
 for x in a:
     for y in b:
