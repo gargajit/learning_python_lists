@@ -1,6 +1,4 @@
 import random
-print(random.randrange(20, 50))
-
 
 #List Comprehension and random range
 new_list = [random.randrange(15,35) for x in range(10) if x % 2 == 0]
